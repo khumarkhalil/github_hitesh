@@ -1,1 +1,1 @@
-This is file 1 text file for learning git
+This is file 1 text file for learning git. However i made some changes in it.
