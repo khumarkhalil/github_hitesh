@@ -2,3 +2,5 @@ This is file 1 text file for learning git. However i made some changes in it.
 This is another change in file 1
 
 Footer Note added in 2025 copyright act.
+
+Footer Note added in 2024 @copyright act.
