@@ -4,3 +4,4 @@ This is another change in file 1
 Footer Note added in 2025 copyright act.
 
 Footer Note added in 2024 @copyright act.
+this is some fixes in file 1 before deletion
