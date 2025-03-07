@@ -1,1 +1,2 @@
 This is file 1 text file for learning git. However i made some changes in it.
+this is some fixes in file 1 before deletion
