@@ -1,2 +1,4 @@
 This is file 2 for git hub
 New updated added after creating updates branch
+
+Added another text to file after uploading to github

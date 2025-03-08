@@ -8,3 +8,4 @@ this is some fixes in file 1 before deletion
 
 addes some changes to test stash
 another update added in master branch after creating update branch
+added some text to file 1 after uploading to github
